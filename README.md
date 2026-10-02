@@ -16,8 +16,8 @@ This repository contains SQL problems and solutions practiced using MySQL, organ
 |-----|-------|--------|
 | Day 01 | SQL Basics, WHERE, ORDER BY, LIMIT | ✅ Completed |
 | Day 02 | Aggregate Functions | ✅ Completed |
-| Day 03 | GROUP BY & HAVING | ⏳ Upcoming |
-| Day 04 | SQL Joins | ⏳ Upcoming |
+| Day 03 | GROUP BY & HAVING | ✅ Completed |
+| Day 04 | SQL Joins | ✅ Completed |
 | Day 05 | Subqueries | ⏳ Upcoming |
 | Day 06 | Constraints & Keys | ⏳ Upcoming |
 | Day 07 | String & Date Functions | ⏳ Upcoming |
